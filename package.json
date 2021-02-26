@@ -1,0 +1,16 @@
+{
+  "name": "modmail",
+  "version": "1.0.0",
+  "description": "This bot will be here in less than 4 days, so until that you can have some screenshot and details about bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "devDependencies": {}
+}
